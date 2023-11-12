@@ -19,7 +19,7 @@
   button {
     padding: 10px;
     border: solid 1px var(--primary-color);
-    background: purple;
+    background: rgb(183, 59, 240);
     color: black;
     border-radius: 8px;
   }
